@@ -1397,37 +1397,41 @@ Scream on Windows with DPDK</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(720).pdf" style="text-decoration:none;">Attention-based Multimodal Neural Machine Translation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(721).pdf" style="text-decoration:none;">WMT 2016 Multimodal Translation System Description based on Bidirectional Recurrent Neural Networks with Double-Embeddings</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(721).pdf" style="text-decoration:none;">AMD64 Architecture
+Programmer's Manual, Volume 5: 64-Bit Media and x87 Floating-Point Instructions</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(722).pdf" style="text-decoration:none;">SHEF-Multimodal: Grounding Machine Translation on Images</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(723).pdf" style="text-decoration:none;">Log-linear Combinations of Monolingual and Bilingual Neural Machine Translation Models for Automatic Post-Editing</a></li>
-     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(724).pdf" style="text-decoration:none;">Controlling the Voice of a Sentence in Japanese-to-English Neural Machine Translation</a></li>
-      <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(725).pdf" style="text-decoration:none;"> Six Challenges for Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(722).pdf" style="text-decoration:none;">Massively Parallel SortMerge
+Joins in Main Memory MultiCore Database Systems</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(723).pdf" style="text-decoration:none;">Massively-Parallel Similarity Join, Edge-Isoperimetry, and Distance Correlations on the Hypercube</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(724).pdf" style="text-decoration:none;">Mastering the Game of Go with Deep Neural Networks and Tree Search</a></li>
+      <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(725).pdf" style="text-decoration:none;"> Matchings in 3-uniform hypergraphs</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(726).pdf" style="text-decoration:none;">Cost Weighting for Neural Machine Translation Domain Adaptation</a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(726).pdf" style="text-decoration:none;">Matchings in k‐partite k‐uniform hypergraphs</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(727).pdf" style="text-decoration:none;">Beam Search Strategies for Neural Machine Translation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(727).pdf" style="text-decoration:none;">Matchings, Hamilton cycles and cycle packings in uniform hypergraphs</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(728).pdf" style="text-decoration:none;">Effective Domain Mixing for Neural Machine Translation</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(729).pdf" style="text-decoration:none;">Adapting Neural Machine Translation with Parallel Synthetic Data</a></li>
-     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(730).pdf" style="text-decoration:none;">Copied Monolingual Data Improves Low-Resource Neural Machine Translation</a></li>
-      <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(731).pdf" style="text-decoration:none;"> Guiding Neural Machine Translation Decoding with External Knowledge</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(728).pdf" style="text-decoration:none;">Math for Machine Learning</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(729).pdf" style="text-decoration:none;">Mathematics for Computer Science</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(730).pdf" style="text-decoration:none;">Maximally Consistent Sampling and the Jaccard Index of Probability Distributions</a></li>
+      <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(731).pdf" style="text-decoration:none;"> Maximizing File Transfer Performance. Using 10Gb Ethernet and Virtualization</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(732).pdf" style="text-decoration:none;"> Findings of the Second Shared Task on Multimodal Machine Translation and Multilingual Image Description</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(732).pdf" style="text-decoration:none;"> Maximizing GPU
+Throughput Across Multiple Streams – Tips and Tricks</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(733).pdf" style="text-decoration:none;">Predictor-Estimator using Multilevel Task Learning with Stack Propagation for Neural Quality Estimation</a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(733).pdf" style="text-decoration:none;">Maximizing Performance of PC Games on 64-bit Platforms</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(734).pdf" style="text-decoration:none;">Neural Machine Translation with Extended Context</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(734).pdf" style="text-decoration:none;">Measuring the Impact of Event Dispatching and Concurrency Models on Web Server Performance Over High-speed Networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(735).pdf" style="text-decoration:none;">An Operation Sequence Model for Explainable Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(735).pdf" style="text-decoration:none;">MegaPipe: A New Programming Interface for Scalable Network I/O</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(736).pdf" style="text-decoration:none;">An Analysis of Encoder Representations in Transformer-Based Machine Translation</a></li>
-     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(737).pdf" style="text-decoration:none;">Scaling Neural Machine Translation</a></li>
-      <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(738).pdf" style="text-decoration:none;"> Denoising Neural Machine Translation Training with Trusted Data and Online Data Selection</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(737).pdf" style="text-decoration:none;">Meltdown</a></li>
+      <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(738).pdf" style="text-decoration:none;"> Memory Barriers: a Hardware View for Software Hackers</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(739).pdf" style="text-decoration:none;">Trivial Transfer Learning for Low-Resource Neural Machine Translation</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(740).pdf" style="text-decoration:none;">Parameter Sharing Methods for Multilingual Self-Attentional Translation Models</a></li>
-     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(741).pdf" style="text-decoration:none;">Findings of the Third Shared Task on Multimodal Machine Translation</a></li>
-      <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(742).pdf" style="text-decoration:none;"> Findings of the WMT 2018 Shared Task on Quality Estimation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(739).pdf" style="text-decoration:none;">Memory Efficient
+Hard Real-Time Garbage Collection</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(740).pdf" style="text-decoration:none;">Memory Ordering in Modern Microprocessors</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(741).pdf" style="text-decoration:none;">Memory-Efficient Search Trees for Database Management Systems</a></li>
+      <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(742).pdf" style="text-decoration:none;"> Mental models, Consistency and Programming Aptitude</a></li>
  
  
  
