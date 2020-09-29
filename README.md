@@ -1556,63 +1556,71 @@ Compressed Pointers in 64-Bit Java Virtual Machines</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(805).pdf" style="text-decoration:none;">On Hamilton cycle decompositions of r-uniform r-partite hypergraphs</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(64).pdf" style="text-decoration:none;">Context-Aware Self-Attention Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(806).pdf" style="text-decoration:none;">Context-Aware Self-Attention Networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(65).pdf" style="text-decoration:none;">Dynamic Layer Aggregation for Neural Machine Translation with Routing-by-Agreement </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(807).pdf" style="text-decoration:none;">On the data access issue (or why CPUs starving)</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(66).pdf" style="text-decoration:none;">Saliency Learning: Teaching the Model Where to Pay Attention</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(808).pdf" style="text-decoration:none;">On the de Bruijn–Newman constant</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(67).pdf" style="text-decoration:none;">Star-Transformer</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(809).pdf" style="text-decoration:none;">On the Implementation of Minimum Redundancy Prefix Codes</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(68).pdf" style="text-decoration:none;">Cross-Lingual Alignment of ContextualWord Embeddings, with Applications to Zero-shot Dependency Parsing</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(810).pdf" style="text-decoration:none;">On the k-Independence Required by Linear Probing and Minwise Independence</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(69).pdf" style="text-decoration:none;">Improving Robustness of Machine Translation with Synthetic Noise</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(811).pdf" style="text-decoration:none;">On the Performance of Bitmap Indices for High Cardinality Attributes</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(70).pdf" style="text-decoration:none;">Lost in Machine Translation: A Method to Reduce Meaning Loss</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(812).pdf" style="text-decoration:none;">On the Quest for an Acyclic Graph</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(71).pdf" style="text-decoration:none;">Attention is not Explanation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(813).pdf" style="text-decoration:none;">One BillionWord Benchmark for Measuring Progress in Statistical Language Modeling</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(72).pdf" style="text-decoration:none;">Non-Autoregressive Machine Translation with Auxiliary Regularization</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(814).pdf" style="text-decoration:none;">"One Size Fits All": An Idea Whose Time Has Come and Gone</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(73).pdf" style="text-decoration:none;">Reinforcement Learning based Curriculum Optimization for Neural Machine Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(74).pdf" style="text-decoration:none;">Non-Parametric Adaptation for Neural Machine Translation</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(75).pdf" style="text-decoration:none;">Massively Multilingual Neural Machine Translation</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(76).pdf" style="text-decoration:none;">Context-Aware Cross-Lingual Mapping</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(815).pdf" style="text-decoration:none;">On-the-Fly Garbage
+Collection: An Exercise in Cooperation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(816).pdf" style="text-decoration:none;">Open Crypto Audit Project TrueCrypt: Security Assessment</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(817).pdf" style="text-decoration:none;">Open Source Kernel Enhancements for Low-Latency Sockets using Busy Poll </a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(818).pdf" style="text-decoration:none;">OpenGIS Implementation Standard for Geographic information - Simple feature access - Part 2: SQL option</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(77).pdf" style="text-decoration:none;">On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(819).pdf" style="text-decoration:none;">OpenVMS RTL String
+Manipulation (STR$) Manual</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(78).pdf" style="text-decoration:none;">compare-mt: A Tool for Holistic Comparison of Language Generation Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(79).pdf" style="text-decoration:none;">Probing the Need for Visual Context in Multimodal Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(820).pdf" style="text-decoration:none;">Opportunistic Data Structures with Applications</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(821).pdf" style="text-decoration:none;">Optimization of Generalized Unary Coding</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(80).pdf" style="text-decoration:none;">Selective Attention for Context-aware Neural Machine Translation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(822).pdf" style="text-decoration:none;">Optimizations in
+C++ Compilers</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(81).pdf" style="text-decoration:none;">Pre-trained Language Model Representations for Language Generation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(82).pdf" style="text-decoration:none;">Competence-based Curriculum Learning for Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(823).pdf" style="text-decoration:none;">Optimizing And Interfacing
+With Cython</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(824).pdf" style="text-decoration:none;">Competence-based Curriculum Learning for Neural Machine Translation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(83).pdf" style="text-decoration:none;">Aligning Vector-spaces with Noisy Supervised Lexicons</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(84).pdf" style="text-decoration:none;">Train, Sort, Explain: Learning to Diagnose Translation Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(825).pdf" style="text-decoration:none;">Optimizing Indirect Memory References with milk</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(826).pdf" style="text-decoration:none;">Optimizing Parallel Prefix
+Operations for the Fermi Architecture</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(85).pdf" style="text-decoration:none;">Lost in Interpretation:
-Predicting Untranslated Terminology in Simultaneous Interpretation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(86).pdf" style="text-decoration:none;">Learning to Stop in Structured Prediction for Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(827).pdf" style="text-decoration:none;">Optimizing Parallel Reduction in CUDA</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(828).pdf" style="text-decoration:none;">Optimizing pattern matching</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(87).pdf" style="text-decoration:none;">Extract and Edit: An Alternative to Back-Translation for Unsupervised Neural Machine Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(88).pdf" style="text-decoration:none;">Consistency by Agreement in Zero-shot Neural Machine Translation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(89).pdf" style="text-decoration:none;">Density Matching for Bilingual Word Embedding</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(829).pdf" style="text-decoration:none;">Optimizing TLS for High–Bandwidth Applications in FreeBSD</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(830).pdf" style="text-decoration:none;">Beginning Performance
+Tuning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(831).pdf" style="text-decoration:none;">Plug into the cloud</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(90).pdf" style="text-decoration:none;">ReWE: RegressingWord Embeddings for Regularization of Neural Machine Translation Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(91).pdf" style="text-decoration:none;">Modeling Recurrence for Transformer</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(832).pdf" style="text-decoration:none;">Multitenant Databases</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(833).pdf" style="text-decoration:none;">Oracle 12c Top 20 New
+Features for Developers</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(92).pdf" style="text-decoration:none;">Information Aggregation for Multi-Head Attention with Routing-by-Agreement</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(93).pdf" style="text-decoration:none;"> Convolutional Self-Attention Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(94).pdf" style="text-decoration:none;">Improving Domain Adaptation Translation with Domain Invariant and Specific Information</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(834).pdf" style="text-decoration:none;">Partitioning: Tips and Tricks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(835).pdf" style="text-decoration:none;"> Tips and Techniques for
+Statistics Gathering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(836).pdf" style="text-decoration:none;">Understanding Oracle
+Locking Internals</a></li> 
   
  
  
