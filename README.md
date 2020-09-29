@@ -1516,7 +1516,7 @@ as Implicit Matrix Factorization</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(782).pdf" style="text-decoration:none;">Nonblocking Algorithms and Scalable Multicore Programming</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(783).pdf" style="text-decoration:none;">Notes on Differential
 Equations</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(784).pdf" style="text-decoration:none;">Fast Decoding in Sequence Models Using Discrete Latent Variables</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(784).pdf" style="text-decoration:none;">Turing Machines</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(785).pdf" style="text-decoration:none;">NTFS Reference Sheet</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(786).pdf" style="text-decoration:none;">NTFS Documentation</a></li>
@@ -1529,7 +1529,7 @@ Equations</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(791).pdf" style="text-decoration:none;">NVDIMM Namespace Specification</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(792).pdf" style="text-decoration:none;">Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(792).pdf" style="text-decoration:none;">Artificial Intelligence and Robotics</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(793).pdf" style="text-decoration:none;">MS-UEdin Submission to the WMT2018 APE Shared Task: Dual-Source Transformer for Automatic Post-Editing</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(794).pdf" style="text-decoration:none;">NVIDIA's Next Generation
 CUDA Compute Architecture</a></li>
@@ -1545,7 +1545,7 @@ CUDA Compute Architecture</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(799).pdf" style="text-decoration:none;">Graphics Processing Units (GPUs): Architecture and Programming - CUDA Advanced Techniques 3</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(800).pdf" style="text-decoration:none;">Graphics Processing Units (GPUs): Architecture and Programming - CUDA Advanced Techniques 4</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(801).pdf" style="text-decoration:none;">Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(801).pdf" style="text-decoration:none;">Forces in Molecules</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(802).pdf" style="text-decoration:none;">Instructions for objconv</a></li>
  
@@ -1556,7 +1556,7 @@ Compressed Pointers in 64-Bit Java Virtual Machines</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(805).pdf" style="text-decoration:none;">On Hamilton cycle decompositions of r-uniform r-partite hypergraphs</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(806).pdf" style="text-decoration:none;">Context-Aware Self-Attention Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(806).pdf" style="text-decoration:none;">The Quantum Theory of the Electron</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(807).pdf" style="text-decoration:none;">On the data access issue (or why CPUs starving)</a></li> 
 
@@ -1597,7 +1597,7 @@ C++ Compilers</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(823).pdf" style="text-decoration:none;">Optimizing And Interfacing
 With Cython</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(824).pdf" style="text-decoration:none;">Competence-based Curriculum Learning for Neural Machine Translation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(824).pdf" style="text-decoration:none;">Simulating Physics with Computers</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(825).pdf" style="text-decoration:none;">Optimizing Indirect Memory References with milk</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(826).pdf" style="text-decoration:none;">Optimizing Parallel Prefix
