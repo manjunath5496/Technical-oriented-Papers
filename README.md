@@ -44,7 +44,7 @@ Machine Learning</a></li>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(19).pdf" style="text-decoration:none;">A Detailed Analysis of the Component Object Model</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(20).pdf" style="text-decoration:none;">A Dynamic Perfect Hash Function Defined by an Extended Hash Indicator Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(20).PDF" style="text-decoration:none;">A Dynamic Perfect Hash Function Defined by an Extended Hash Indicator Table</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(21).pdf" style="text-decoration:none;">A Family of Perfect Hashing Methods</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(22).pdf" style="text-decoration:none;">A Fast x86 Implementation of Select</a></li> 
@@ -221,7 +221,7 @@ Specification</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(107).pdf" style="text-decoration:none;">Graphics Core Next Architecture, Generation 3</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(108).pdf" style="text-decoration:none;">Open-Source
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(108).PDF" style="text-decoration:none;">Open-Source
 Register Reference For AMD Family 17h Processors Models 00h-2Fh</a></li> 
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(109).pdf" style="text-decoration:none;">Preliminary
@@ -233,7 +233,7 @@ Guide for AMD Family 15h Processors</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(111).pdf" style="text-decoration:none;">On Measuring Gender Bias in Translation of Gender-neutral Pronouns</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(112).pdf" style="text-decoration:none;">Software Optimization
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(112).PDF" style="text-decoration:none;">Software Optimization
 Guide for AMD64 Processors</a></li> 
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(113).pdf" style="text-decoration:none;">An Approach for Minimal Perfect Hash Functions for Very Large Databases</a></li>  
