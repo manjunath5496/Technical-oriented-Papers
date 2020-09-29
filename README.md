@@ -730,77 +730,79 @@ Efficient Lossless Compression of Trees and Graphs</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(369).pdf" style="text-decoration:none;">Efficient Parallel Graph Exploration on Multi-Core CPU and GPU</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(370).pdf" style="text-decoration:none;">Efficient string matching: An aid to bibliographic search</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(371).pdf" style="text-decoration:none;">Earth Mover's Distance Minimization for Unsupervised Bilingual Lexicon Induction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(372).pdf" style="text-decoration:none;">Unfolding and Shrinking Neural Machine Translation Ensembles</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(371).pdf" style="text-decoration:none;">Efficient Virtual Memory for Big Memory Servers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(372).pdf" style="text-decoration:none;">Efficiently Compiling Efficient Query Plans for Modern Hardware</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(373).pdf" style="text-decoration:none;">Graph Convolutional Encoders for Syntax-aware Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(373).pdf" style="text-decoration:none;">Egocentrism Over E-Mail: Can We Communicate as Well as We Think?</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(374).pdf" style="text-decoration:none;">Trainable Greedy Decoding for Neural Machine Translation </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(374).pdf" style="text-decoration:none;">E = I + T: The internal extent formula for compacted tries</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(375).pdf" style="text-decoration:none;">A Challenge Set Approach to Evaluating Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(375).pdf" style="text-decoration:none;">Elementary Calculus: An Infinitesimal Approach</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(376).pdf" style="text-decoration:none;">Knowledge Distillation for Bilingual Dictionary Induction </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(376).pdf" style="text-decoration:none;">Executable and Linkable Format (ELF)</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(377).pdf" style="text-decoration:none;">Deciphering Related Languages </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(377).pdf" style="text-decoration:none;"> ELF Handling for Thread-Local Storage </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(378).pdf" style="text-decoration:none;">A Study of Style in Machine Translation: Controlling the Formality of Machine Translation Output</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(379).pdf" style="text-decoration:none;">Sharp Models on Dull Hardware: Fast and Accurate Neural Machine Translation Decoding on the CPU</a></li>
-     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(380).pdf" style="text-decoration:none;">Exploiting Cross-Sentence Context for Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(378).pdf" style="text-decoration:none;">Eliminating Global Interpreter Locks in Ruby through Hardware Transactional Memory</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(379).pdf" style="text-decoration:none;">Empirical Study of the Anatomy of Modern Sat Solvers</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(380).pdf" style="text-decoration:none;">
+Encyclopedia of Controller Fundamentals and Features - Firmware </a></li>
  
  
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(381).pdf" style="text-decoration:none;">Neural Machine Translation with Source Dependency Representation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(381).pdf" style="text-decoration:none;">Engineering Better Software at Microsoft</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(382).pdf" style="text-decoration:none;">Multi-lingual Common Semantic Space Construction via Cluster-consistentWord Embedding</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(382).pdf" style="text-decoration:none;">Enhancing Server Availability and Security Through Failure-Oblivious Computing</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(383).pdf" style="text-decoration:none;">Unsupervised MultilingualWord Embeddings</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(383).pdf" style="text-decoration:none;">A Machine-learning Method To Explore The UEFI Landscape</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(384).pdf" style="text-decoration:none;">CLUSE: Cross-Lingual Unsupervised Sense Embeddings</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(384).pdf" style="text-decoration:none;">Establishing a Base of Trust with Performance Counters for Enterprise Workloads</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(385).pdf" style="text-decoration:none;">Improving Cross-LingualWord Embeddings by Meeting in the Middle</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(385).pdf" style="text-decoration:none;">Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(386).pdf" style="text-decoration:none;">A Stable and Effective Learning Strategy for Trainable Greedy Decoding</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(387).pdf" style="text-decoration:none;">Addressing Troublesome Words in Neural Machine Translation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(388).pdf" style="text-decoration:none;">Top-down Tree Structured Decoding with Syntactic Connections for Neural Machine Translation and Parsing</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(386).pdf" style="text-decoration:none;">Hooking Nirvana: Stealthy Instrumentation Techniques</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(387).pdf" style="text-decoration:none;">Evaluation of Contemporary Graph Databases for Efficient Persistence of Large-Scale Models</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(388).pdf" style="text-decoration:none;">Evaluation of Parallel Design Patterns for Message Processing Systems on Embedded Multicore Systems</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(389).pdf" style="text-decoration:none;">Contextual Parameter Generation for Universal Neural Machine Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(389).pdf" style="text-decoration:none;">Evaluation of Rolling Sphere Method Using Leader Potential Concept: A Case Study</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(390).pdf" style="text-decoration:none;">Back-Translation Sampling by Targeting Difficult Words in Neural Machine Translation</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(391).pdf" style="text-decoration:none;">Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(392).pdf" style="text-decoration:none;">A Discriminative Latent-Variable Model for Bilingual Lexicon Induction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(390).pdf" style="text-decoration:none;">EventSource User's Guide</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(391).pdf" style="text-decoration:none;">EventSource Activity Support</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(392).pdf" style="text-decoration:none;">Everything we know about CRC but afraid to forget</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(393).pdf" style="text-decoration:none;">Non-Adversarial Unsupervised Word Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(393).pdf" style="text-decoration:none;">Everything You Always Wanted to Know About Synchronization but Were Afraid to Ask</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(394).pdf" style="text-decoration:none;">Semi-Autoregressive Neural Machine Translation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(394).pdf" style="text-decoration:none;">Exact minimum degree thresholds for perfect matchings in uniform hypergraphs</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(395).pdf" style="text-decoration:none;">Understanding Back-Translation at Scale</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(395).pdf" style="text-decoration:none;">Experiences in the Land of Virtual Abstractions</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(396).pdf" style="text-decoration:none;">NORMA: Neighborhood Sensitive Maps for MultilingualWord Embeddings</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(396).pdf" style="text-decoration:none;">Experiences Porting Real Time Signal Processing Pipeline CUDA Kernels to Kepler and Windows 8</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(397).pdf" style="text-decoration:none;">Adaptive Multi-pass Decoder for Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(397).pdf" style="text-decoration:none;">Expert programmers have fine-tuned cortical representations of source code</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(398).pdf" style="text-decoration:none;">Improving the Transformer Translation Model with Document-Level Context</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(399).pdf" style="text-decoration:none;">MTNT: A Testbed for Machine Translation of Noisy Text</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(400).pdf" style="text-decoration:none;">Why is unsupervised alignment of English embeddings from different algorithms so hard?</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(401).pdf" style="text-decoration:none;">Learning Unsupervised Word Translations Without Adversaries</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(402).pdf" style="text-decoration:none;">Surprisingly Easy Hard-Attention for Sequence to Sequence Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(398).pdf" style="text-decoration:none;">Explaining AdaBoost</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(399).pdf" style="text-decoration:none;">EXPLODE: a Lightweight, General System for Finding Serious Storage System Errors</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(400).pdf" style="text-decoration:none;">Exploiting Coarse-Grain Speculative Parallelism</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(401).pdf" style="text-decoration:none;">Exploiting deferred destruction: An analysis of read-copy-update techniques in operating system kernels</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(402).pdf" style="text-decoration:none;">Exploiting SIMD for Complex Numerical Predicates</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(403).pdf" style="text-decoration:none;">SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(404).pdf" style="text-decoration:none;">Rapid Adaptation of Neural Machine Translation to New Languages</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(403).pdf" style="text-decoration:none;">Exploring Control Flow Guard in Windows 10</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(404).pdf" style="text-decoration:none;">Exploring PL/SQL New Features and Best Practices for Better Performance</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(405).pdf" style="text-decoration:none;">Compact Personalized Models for Neural Machine Translation </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(406).pdf" style="text-decoration:none;">Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(407).pdf" style="text-decoration:none;">Large Margin Neural Language Model</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(408).pdf" style="text-decoration:none;">Gromov-Wasserstein Alignment of Word Embedding Spaces</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(405).pdf" style="text-decoration:none;">Exponential Golomb and Rice Error Correction Codes for Generalized Near-Capacity Joint Source and Channel Coding</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(406).pdf" style="text-decoration:none;">Extending Oracle E-Business Suite Release 12.1 and above using Oracle Application Express</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(407).pdf" style="text-decoration:none;">Extending Python for High-
+Performance Data-Parallel Programming</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(408).pdf" style="text-decoration:none;">External Perfect Hashing for Very Large Key Sets</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(409).pdf" style="text-decoration:none;">Semi-Supervised Sequence Modeling with Cross-View Training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(409).pdf" style="text-decoration:none;">The Pilot's Operating Handbook </a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(410).pdf" style="text-decoration:none;">Unsupervised Cross-lingual Transfer of Word Embedding Spaces</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(410).pdf" style="text-decoration:none;">Failure-Atomic msync(): A Simple and Efficient Mechanism for Preserving the Integrity of Durable Data</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(411).pdf" style="text-decoration:none;">XNLI: Evaluating Cross-lingual Sentence Representations</a></li>
 
