@@ -1388,13 +1388,14 @@ Scream on Windows with DPDK</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(715).pdf" style="text-decoration:none;">Lecture 7: Markov Chains and Random Walks</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(716).pdf" style="text-decoration:none;">MARX: Uncovering Class Hierarchies in C++ Programs</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(717).pdf" style="text-decoration:none;">CHRF: character n-gram F-score for automatic MT evaluation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(717).pdf" style="text-decoration:none;">Nikola Tesla Complete Articles And Patents</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(718).pdf" style="text-decoration:none;">A Shared Task on Multimodal Machine Translation and Crosslingual Image Description</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(718).pdf" style="text-decoration:none;">The Ultimate Guide to
+Deploy Kubernetes</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(719).pdf" style="text-decoration:none;">DCU-UvA Multimodal MT System Report</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(719).pdf" style="text-decoration:none;">Jenkins User Handbook</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(720).pdf" style="text-decoration:none;">Attention-based Multimodal Neural Machine Translation</a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(720).pdf" style="text-decoration:none;">The principle of least action in quantum mechanics</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(721).pdf" style="text-decoration:none;">AMD64 Architecture
 Programmer's Manual, Volume 5: 64-Bit Media and x87 Floating-Point Instructions</a></li>
