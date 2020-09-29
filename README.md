@@ -1567,7 +1567,7 @@ Compressed Pointers in 64-Bit Java Virtual Machines</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(810).pdf" style="text-decoration:none;">On the k-Independence Required by Linear Probing and Minwise Independence</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(811).pdf" style="text-decoration:none;">On the Performance of Bitmap Indices for High Cardinality Attributes</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(811).PDF" style="text-decoration:none;">On the Performance of Bitmap Indices for High Cardinality Attributes</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(812).pdf" style="text-decoration:none;">On the Quest for an Acyclic Graph</a></li> 
   
