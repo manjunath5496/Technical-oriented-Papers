@@ -1357,32 +1357,37 @@ Synchronization</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(699).pdf" style="text-decoration:none;">Lossless compression in lossy compression systems</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(700).pdf" style="text-decoration:none;">Lossless Source Coding</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(701).pdf" style="text-decoration:none;">Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(701).pdf" style="text-decoration:none;">Lower Bound Techniques for Data Structures</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(702).pdf" style="text-decoration:none;">Attention-Passing Models for Robust and Data-Efficient End-to-End Speech Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(702).pdf" style="text-decoration:none;">LSM-trie: An LSM-tree-based Ultra-Large Key-Value Store for Small Data</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(703).pdf" style="text-decoration:none;">Membership Inference Attacks on Sequence-to-Sequence Models: Is My Data In Your Machine Translation System?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(703).pdf" style="text-decoration:none;">An insane idea on reference counting</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(704).pdf" style="text-decoration:none;">Does Syntax Need to Grow on Trees? Sources of Hierarchical Inductive Bias in Sequence-to-Sequence Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(704).pdf" style="text-decoration:none;">Lynx: Using OS and Hardware Support for Fast Fine-Grained Inter-Core Communication</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(705).pdf" style="text-decoration:none;">Theoretical Limitations of Self-Attention in Neural Sequence Models</a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(705).pdf" style="text-decoration:none;">M4: A Visualization Oriented
+Time Series Data Aggregation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(706).pdf" style="text-decoration:none;">Leveraging Pre-trained Checkpoints for Sequence Generation Tasks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(706).pdf" style="text-decoration:none;">Mach: A New Kernel Foundation For UNIX Development</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(707).pdf" style="text-decoration:none;">Towards Neural Phrase-based Machine Translation</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(708).pdf" style="text-decoration:none;">Transductive Ensemble Learning for Neural Machine Translation</a></li>
-     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(709).pdf" style="text-decoration:none;">Statistical Machine Translation: the basic, the novel, and the speculative</a></li>
-      <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(710).pdf" style="text-decoration:none;"> Universal Transformers</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(707).pdf" style="text-decoration:none;">Machine Learning:
+The High-Interest Credit Card of Technical Debt</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(708).pdf" style="text-decoration:none;">Magazines and Vmem:
+Extending the Slab Allocator to Many CPUs and Arbitrary Resources</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(709).pdf" style="text-decoration:none;">Maintaining Knowledge
+about Temporal Intervals</a></li>
+      <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(710).pdf" style="text-decoration:none;"> Making Lockless Synchronization Fast: Performance Implications of Memory Reclamation</a></li>
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(711).pdf" style="text-decoration:none;">Unsupervised Machine Translation Using Monolingual Corpora Only</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(712).pdf" style="text-decoration:none;">Unsupervised Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(711).pdf" style="text-decoration:none;">Making Networking Apps
+Scream on Windows with DPDK</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(712).pdf" style="text-decoration:none;">Managing the Development of Large Software Systems</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(713).pdf" style="text-decoration:none;">Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(713).pdf" style="text-decoration:none;">Managing the Google Web 1T 5-gram with Relational Database</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(714).pdf" style="text-decoration:none;">Statistical Significance Tests for Machine Translation Evaluation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(715).pdf" style="text-decoration:none;">METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(716).pdf" style="text-decoration:none;">QUality Estimation from ScraTCH (QUETCH): Deep Learning forWord-level Translation Quality Estimation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(714).pdf" style="text-decoration:none;">Managing Traffic with ALTQ</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(715).pdf" style="text-decoration:none;">Lecture 7: Markov Chains and Random Walks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(716).pdf" style="text-decoration:none;">MARX: Uncovering Class Hierarchies in C++ Programs</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(717).pdf" style="text-decoration:none;">CHRF: character n-gram F-score for automatic MT evaluation</a></li>
  
