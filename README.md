@@ -230,7 +230,7 @@ Processor Programming Reference (PPR) for AMD Family 17h Models 00h-0Fh Processo
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(110).pdf" style="text-decoration:none;">Software Optimization
 Guide for AMD Family 15h Processors</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(111).pdf" style="text-decoration:none;">On Measuring Gender Bias in Translation of Gender-neutral Pronouns</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(111).pdf" style="text-decoration:none;">The Development of Transition-State Theory</a></li> 
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(112).PDF" style="text-decoration:none;">Software Optimization
@@ -372,7 +372,7 @@ Guide for AMD Athlon 64 and AMD Opteron Processors</a></li>
                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(187).pdf" style="text-decoration:none;">Bitmap Graphics SIGGRAPH'84 Course Notes</a></li>
                              
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(188).pdf" style="text-decoration:none;">Better Document-Level Machine Translation with Bayes' Rule</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(188).pdf" style="text-decoration:none;">A New System of Alternating Current Motors and Transformers</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(189).pdf" style="text-decoration:none;">Bitmap Index Design and Evaluation</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(190).pdf" style="text-decoration:none;">Bitmap Index Design Choices and Their Performance Implications</a></li>
@@ -384,7 +384,7 @@ indexing techniques </a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(193).pdf" style="text-decoration:none;">BitPath – Label Order Constrained Reachability Queries over Large Graphs</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(194).pdf" style="text-decoration:none;">Translationese as a Language in "Multilingual" NMT </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(194).pdf" style="text-decoration:none;">On the Influence of Carbonic Acid in the Air upon the Temperature of the Ground</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(195).pdf" style="text-decoration:none;">Blade: A Data Center Garbage Collector</a></li>
  
@@ -432,7 +432,7 @@ Framework for Distributed Computation on RealWorld Graphs</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(216).pdf" style="text-decoration:none;">Bypass Control Flow Guard Comprehensively</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(217).pdf" style="text-decoration:none;">C Reference Cheat Sheet</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(218).pdf" style="text-decoration:none;">Working Draft, Standard for Programming Language C++</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(218).pdf" style="text-decoration:none;">Introduction to DevOps on AWS</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(219).pdf" style="text-decoration:none;">Working Draft, Standard for Programming Language C++</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(220).pdf" style="text-decoration:none;">Language Features of C++17</a></li>
   
@@ -618,7 +618,7 @@ Lecture 4: Integer Codes II</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(314).pdf" style="text-decoration:none;">Database System Implementation</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(315).pdf" style="text-decoration:none;">Improving Neural Machine Translation by Incorporating Hierarchical Subword Features</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(315).pdf" style="text-decoration:none;">Overview of Amazon Web Services</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(316).pdf" style="text-decoration:none;">Collaborative Filtering: I like what you like</a></li>
 
@@ -719,7 +719,7 @@ Large-Scale Image Analysis</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(363).pdf" style="text-decoration:none;">Efficient implementation of lazy suffix trees</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(364).pdf" style="text-decoration:none;">Efficient Implementation of Reductions on GPU Architectures</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(365).pdf" style="text-decoration:none;">Efficient Implementation of Sorting on Multi‐Core SIMD CPU Architecture</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(365).pdf" style="text-decoration:none;">Black Holes and Entropy</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(366).pdf" style="text-decoration:none;">Efficient Implementation of Sorting on MultiCore SIMD CPU Architecture</a></li> 
                              
@@ -948,14 +948,14 @@ synchronisation</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(483).pdf" style="text-decoration:none;">GPU-ArraySort: A parallel, in-place algorithm for sorting large number of arrays</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(484).pdf" style="text-decoration:none;">Neural Lattice Search for Domain Adaptation in Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(484).pdf" style="text-decoration:none;">Does the Inertia of a Body Depend upon its Energy-Content?</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(485).pdf" style="text-decoration:none;">Graph theoretic obstacles to perfect hashing</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(486).pdf" style="text-decoration:none;">Graph Theory</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(487).pdf" style="text-decoration:none;">GraphBLAS Mathematics</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(488).pdf" style="text-decoration:none;">Graphs, Hypergraphs and Hashing</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(489).pdf" style="text-decoration:none;">GRIM: Leveraging GPUs for Kernel Integrity Monitoring</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(490).pdf" style="text-decoration:none;">Improving Sequence-to-Sequence Learning via Optimal Transport</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(490).pdf" style="text-decoration:none;">Particle Creation by Black Holes</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(491).pdf" style="text-decoration:none;">Guide to Automatic Vectorization with Intel AVX-512 Instructions in Knights Landing Processors</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(492).pdf" style="text-decoration:none;">Gunrock: A High-Performance Graph Processing Library on the GPU</a></li>
@@ -1063,7 +1063,7 @@ Taming parallel I/O complexity with auto-tuning </a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(545).pdf" style="text-decoration:none;">HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(546).pdf" style="text-decoration:none;">Learning Hidden Unit Contribution for Adapting Neural Machine Translation Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(546).pdf" style="text-decoration:none;">How to Program in C++ With 100 Examples</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(547).pdf" style="text-decoration:none;">I Got 99 Problem But a Kernel Pointer Ain't One</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(548).pdf" style="text-decoration:none;">iBFS: Concurrent Breadth-First Search on GPUs</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(549).pdf" style="text-decoration:none;">IBM DB2 for i
@@ -1118,7 +1118,7 @@ Databases and Modern CPUs</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(574).pdf" style="text-decoration:none;">Inline Function Expansion for Compiling C Programs</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(575).pdf" style="text-decoration:none;">In-Memory Columnar Store for PostgreSQL</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(576).pdf" style="text-decoration:none;">Tree-to-Sequence Attentional Neural Machine Translation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(576).pdf" style="text-decoration:none;">Jenkins CheatSheet </a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(577).pdf" style="text-decoration:none;">Inside the deal that made Bill Gates $350,000,000</a></li> 
  
@@ -1134,7 +1134,7 @@ Databases and Modern CPUs</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(585).pdf" style="text-decoration:none;">Avoiding AVX-SSE Transition Penalties</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(586).pdf" style="text-decoration:none;">Improving Real-Time Performance by Utilizing Cache Allocation Technology</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(587).pdf" style="text-decoration:none;">Deep Neural Machine Translation with Linear Associative Unit</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(587).pdf" style="text-decoration:none;">A literature survey on Machine Learning Algorithms</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(588).pdf" style="text-decoration:none;">
 Mitigations for Jump Conditional Code Erratum</a></li>  
    
@@ -1148,7 +1148,7 @@ Mitigations for Jump Conditional Code Erratum</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(593).pdf" style="text-decoration:none;">Intel 64 and IA-32 Architectures Software Developer's Manual, Combined Volumes: 1, 2A, 2B, 2C, 2D, 3A, 3B, 3C and 3D</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(594).pdf" style="text-decoration:none;">Intel Advanced
 Encryption Standard (AES) New Instructions Set</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(595).pdf" style="text-decoration:none;">Bandit Structured Prediction for Neural Sequence-to-Sequence Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(595).pdf" style="text-decoration:none;">Kubernetes for Full-Stack Developers</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(596).pdf" style="text-decoration:none;">Intel Architecture
 Instruction Set Extensions and Future Features Programming Reference</a></li>
@@ -1163,7 +1163,7 @@ Multiplication Instruction and its Usage for Computing the GCM Mode</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(600).pdf" style="text-decoration:none;">Performance Analysis</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(601).pdf" style="text-decoration:none;">Improved Neural Machine Translation with a Syntax-Aware Encoder and Decoder</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(601).pdf" style="text-decoration:none;">Chemical Kinetics and the Origins of Physical Chemistry</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(602).pdf" style="text-decoration:none;">Intel Ethernet Controller
 82571EB /82572EI/ 82571GB/ 82571GI Specification Update</a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(603).pdf" style="text-decoration:none;">Intel I/O Acceleration Technology (Intel IOAT) Overview</a></li>
@@ -1178,9 +1178,9 @@ Multiplication Instruction and its Usage for Computing the GCM Mode</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(605).pdf" style="text-decoration:none;">PCI Express* Ethernet Networking</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(606).pdf" style="text-decoration:none;">An Empirical Comparison of Domain Adaptation Methods for Neural Machine Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(607).pdf" style="text-decoration:none;">Sentence Embedding for Neural Machine Translation Domain Adaptation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(608).pdf" style="text-decoration:none;">Data Augmentation for Low-Resource Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(606).pdf" style="text-decoration:none;">The Origin and Status of the Arrhenius Equation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(607).pdf" style="text-decoration:none;">Introduction to C#</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(608).pdf" style="text-decoration:none;">On the Theory of the Energy Distribution Law of the Normal Spectrum</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(609).pdf" style="text-decoration:none;">Intel SIMD architecture</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(610).pdf" style="text-decoration:none;">The Story Of Intel MMX Technology</a></li>
@@ -1247,10 +1247,10 @@ Instrumentation Tool</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(640).pdf" style="text-decoration:none;">ItemBased Collaborative Filtering Recommendation Algorithms</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(641).pdf" style="text-decoration:none;">It's Time for Low Latency</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(642).pdf" style="text-decoration:none;"> Improving Beam Search by Removing Monotonic Constraint for Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(642).pdf" style="text-decoration:none;"> On an Improvement of Wien's Equation for the Spectrum</a></li> 
                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(643).pdf" style="text-decoration:none;">ECMAScript Language Specification</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(644).pdf" style="text-decoration:none;">Neural Hidden Markov Model for Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(644).pdf" style="text-decoration:none;">On the Law of Distribution of Energy in the Normal Spectrum</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(645).pdf" style="text-decoration:none;">Join-Idle-Queue: A Novel Load Balancing Algorithm for Dynamically Scalable Web Services</a></li>
                               
@@ -1271,8 +1271,7 @@ Attacking Branch Predictors to Bypass ASLR</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(654).pdf" style="text-decoration:none;">Kerncraft: A Tool for Analytic Performance Modeling of Loop Kernels</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(655).pdf" style="text-decoration:none;">Kernel Debugging with WinDbg</a></li>
-     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(656).pdf" style="text-decoration:none;">Write and Submit
-your first Linux Kernel Patch</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(656).pdf" style="text-decoration:none;">A Generalized Theory of Plasticity Involving the Virial Theorem</a></li>
  
  
  
@@ -1282,7 +1281,7 @@ your first Linux Kernel Patch</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(659).pdf" style="text-decoration:none;">KLAP: Kernel Launch Aggregation and Promotion for Optimizing Dynamic Parallelism</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(660).pdf" style="text-decoration:none;">KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(661).pdf" style="text-decoration:none;">Generating Diverse Translations with Sentence Codes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(661).pdf" style="text-decoration:none;">Rocket Propulsion Elements</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(662).pdf" style="text-decoration:none;">KNOW YOUR HTTP STATUS CODES!</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(663).pdf" style="text-decoration:none;">Latency and Bandwidth
@@ -1423,7 +1422,7 @@ Throughput Across Multiple Streams – Tips and Tricks</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(734).pdf" style="text-decoration:none;">Measuring the Impact of Event Dispatching and Concurrency Models on Web Server Performance Over High-speed Networks</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(735).pdf" style="text-decoration:none;">MegaPipe: A New Programming Interface for Scalable Network I/O</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(736).pdf" style="text-decoration:none;">An Analysis of Encoder Representations in Transformer-Based Machine Translation</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(736).pdf" style="text-decoration:none;">On the Electrodynamics of Moving Bodies</a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(737).pdf" style="text-decoration:none;">Meltdown</a></li>
       <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(738).pdf" style="text-decoration:none;"> Memory Barriers: a Hardware View for Software Hackers</a></li>
  
