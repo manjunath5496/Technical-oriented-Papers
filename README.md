@@ -1622,7 +1622,190 @@ Statistics Gathering</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(836).pdf" style="text-decoration:none;">Understanding Oracle
 Locking Internals</a></li> 
   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(837).pdf" style="text-decoration:none;">x86 Assembly Language
+Reference Manual</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(838).pdf" style="text-decoration:none;">Oracle Database Data Warehousing Guide, 11g Release 2 (11.2)</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(839).pdf" style="text-decoration:none;">Advanced Compression with Oracle Database 11g</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(840).pdf" style="text-decoration:none;">Oracle Database Administrator's Guide, 11g Release 1 (11.1)</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(841).pdf" style="text-decoration:none;">Oracle Database
+Concepts 11g Release 1 (11.1)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(842).pdf" style="text-decoration:none;">Oracle Database
+Data Cartridge Developer's Guide 11g Release 1 (11.1)</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(843).pdf" style="text-decoration:none;">Oracle Database
+Reference 11g Release 1 (11.1)</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(844).pdf" style="text-decoration:none;"> Oracle Database
+SQL Language Reference 11g Release 1 (11.1)</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(845).pdf" style="text-decoration:none;">Oracle Database
+Advanced Application Developer's Guide 11g Release 2 (11.2)</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(846).pdf" style="text-decoration:none;">Oracle Text
+Application Developer's Guide 11g Release 2 (11.2)</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(847).pdf" style="text-decoration:none;">Oracle Database
+2 Day + Data Warehousing Guide 11g Release 2 (11.2)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(848).pdf" style="text-decoration:none;">Oracle Database
+Object-Relational Developer's Guide 11g Release 2 (11.2)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(849).pdf" style="text-decoration:none;">Oracle Database
+Performance Tuning Guide 11g Release 2 (11.2)</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(850).pdf" style="text-decoration:none;">Oracle Database
+PL/SQL Language Reference 11g Release 2 (11.2)</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(851).pdf" style="text-decoration:none;">Pandoc User's Guide</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(852).pdf" style="text-decoration:none;">Oracle Text Reference 11g Release 2 (11.2)</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(853).pdf" style="text-decoration:none;">Oracle Database
+VLDB and Partitioning Guide 11g Release 2 (11.2)</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(854).pdf" style="text-decoration:none;">Oracle Database
+Utilities 12c Release 1 (12.1.0.2)</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(855).pdf" style="text-decoration:none;">Index Internals</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(856).pdf" style="text-decoration:none;"> Oracle PLSQL Coding Guidelines</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(857).pdf" style="text-decoration:none;">PL/SQL in Oracle 12c</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(858).pdf" style="text-decoration:none;">Pattern matching in sequences of rows (11)</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(859).pdf" style="text-decoration:none;">Oracle Spatial
+User Conference</a></li> 
  
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(860).pdf" style="text-decoration:none;">Oral History of David Cutler</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(861).pdf" style="text-decoration:none;">Order-Preserving Key Compression for In-Memory Search Trees</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(862).pdf" style="text-decoration:none;">
+Origins of the Simplex Method </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(863).pdf" style="text-decoration:none;">Out of the Tar Pit</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(864).pdf" style="text-decoration:none;">Outlier detection</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(865).pdf" style="text-decoration:none;">Overlapping Matrix Pattern Visualization: a Hypergraph Approach</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(866).pdf" style="text-decoration:none;">Overplotting: Unified solutions under Abstract Rendering</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(867).pdf" style="text-decoration:none;">DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(868).pdf" style="text-decoration:none;">Ownership and Reference Counting based Garbage Collection in the Actor World</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(869).pdf" style="text-decoration:none;">P: Safe Asynchronous Event-Driven Programming</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(870).pdf" style="text-decoration:none;">P tutorial</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(871).pdf" style="text-decoration:none;">PageRank as a Function of the Damping Factor</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(872).pdf" style="text-decoration:none;">pandas: powerful Python data analysis toolkit</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(873).pdf" style="text-decoration:none;">NumPy / SciPy / Pandas Cheat Sheet</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(874).pdf" style="text-decoration:none;">B-trees, Shadowing, and Clones</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(875).pdf" style="text-decoration:none;">Zero-Resource Neural Machine Translation with Multi-Agent Communication Game</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(876).pdf" style="text-decoration:none;">Tied Multitask Learning for Neural Speech Translation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(877).pdf" style="text-decoration:none;">Memory Interleaving</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(878).pdf" style="text-decoration:none;">
+The Need for Asynchronous, Zero-Copy Network I/O</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(879).pdf" style="text-decoration:none;">The Zephyr Abstract Syntax Description Language</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(880).pdf" style="text-decoration:none;">Transactive Memory: A Contemporary Analysis of the Group Mfnd</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(881).pdf" style="text-decoration:none;">Lecture 9 CSE 260 – Parallel Computation (Fall 2015)</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(882).pdf" style="text-decoration:none;">Parallel Depth-First Search
+for Directed Acyclic Graphs</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(883).pdf" style="text-decoration:none;">Parallel Lossless Data Compression on the GPU</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(884).pdf" style="text-decoration:none;">Parallel Programming
+with Transactional Memory</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(885).pdf" style="text-decoration:none;">Parallel Random Numbers: As Easy as 1, 2, 3</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(886).pdf" style="text-decoration:none;">Parallel Scans and Prefix Sums</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(887).pdf" style="text-decoration:none;">Parallelism in Randomized Incremental Algorithms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(888).pdf" style="text-decoration:none;">Parsing a SWIFT Message</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(889).pdf" style="text-decoration:none;">Parsing Gigabytes of JSON per Second </a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(890).pdf" style="text-decoration:none;">Partial redundancy elimination for global value numbering</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(891).pdf" style="text-decoration:none;">Pattern Matching using suffix trays, arrays and trees</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(892).pdf" style="text-decoration:none;">Patterns of Software:
+Tales from the Software Community </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(893).pdf" style="text-decoration:none;">PC Assembly Language </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(894).pdf" style="text-decoration:none;">PCI Express Basics</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(895).pdf" style="text-decoration:none;">PE File Structure</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(896).pdf" style="text-decoration:none;">Portable Executable Format Layout</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(897).pdf" style="text-decoration:none;">A Walk Through the PE32 Format</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(898).pdf" style="text-decoration:none;">PE Injection Explained: Advanced memory code injection technique</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(899).pdf" style="text-decoration:none;">PeachPy: A Python Framework for Developing High-Performance Assembly Kernels</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(900).pdf" style="text-decoration:none;">Peering Inside the PE: A Tour of the Win32 Portable Executable File Format</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(65).pdf" style="text-decoration:none;">Dynamic Layer Aggregation for Neural Machine Translation with Routing-by-Agreement </a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(66).pdf" style="text-decoration:none;">Saliency Learning: Teaching the Model Where to Pay Attention</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(67).pdf" style="text-decoration:none;">Star-Transformer</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(68).pdf" style="text-decoration:none;">Cross-Lingual Alignment of ContextualWord Embeddings, with Applications to Zero-shot Dependency Parsing</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(69).pdf" style="text-decoration:none;">Improving Robustness of Machine Translation with Synthetic Noise</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(70).pdf" style="text-decoration:none;">Lost in Machine Translation: A Method to Reduce Meaning Loss</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(71).pdf" style="text-decoration:none;">Attention is not Explanation</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(72).pdf" style="text-decoration:none;">Non-Autoregressive Machine Translation with Auxiliary Regularization</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(73).pdf" style="text-decoration:none;">Reinforcement Learning based Curriculum Optimization for Neural Machine Translation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(74).pdf" style="text-decoration:none;">Non-Parametric Adaptation for Neural Machine Translation</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(75).pdf" style="text-decoration:none;">Massively Multilingual Neural Machine Translation</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(76).pdf" style="text-decoration:none;">Context-Aware Cross-Lingual Mapping</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(77).pdf" style="text-decoration:none;">On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(78).pdf" style="text-decoration:none;">compare-mt: A Tool for Holistic Comparison of Language Generation Systems</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(79).pdf" style="text-decoration:none;">Probing the Need for Visual Context in Multimodal Machine Translation</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(80).pdf" style="text-decoration:none;">Selective Attention for Context-aware Neural Machine Translation</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(81).pdf" style="text-decoration:none;">Pre-trained Language Model Representations for Language Generation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(82).pdf" style="text-decoration:none;">Competence-based Curriculum Learning for Neural Machine Translation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(83).pdf" style="text-decoration:none;">Aligning Vector-spaces with Noisy Supervised Lexicons</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(84).pdf" style="text-decoration:none;">Train, Sort, Explain: Learning to Diagnose Translation Models</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(85).pdf" style="text-decoration:none;">Lost in Interpretation:
+Predicting Untranslated Terminology in Simultaneous Interpretation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(86).pdf" style="text-decoration:none;">Learning to Stop in Structured Prediction for Neural Machine Translation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(87).pdf" style="text-decoration:none;">Extract and Edit: An Alternative to Back-Translation for Unsupervised Neural Machine Translation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(88).pdf" style="text-decoration:none;">Consistency by Agreement in Zero-shot Neural Machine Translation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(89).pdf" style="text-decoration:none;">Density Matching for Bilingual Word Embedding</a></li>
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(90).pdf" style="text-decoration:none;">ReWE: RegressingWord Embeddings for Regularization of Neural Machine Translation Systems</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(91).pdf" style="text-decoration:none;">Modeling Recurrence for Transformer</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(92).pdf" style="text-decoration:none;">Information Aggregation for Multi-Head Attention with Routing-by-Agreement</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(93).pdf" style="text-decoration:none;"> Convolutional Self-Attention Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(94).pdf" style="text-decoration:none;">Improving Domain Adaptation Translation with Domain Invariant and Specific Information</a></li> 
+  
  
  
  </ul>
