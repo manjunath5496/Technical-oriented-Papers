@@ -1918,7 +1918,7 @@ Development at Intel</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(987).pdf" style="text-decoration:none;">Regular and almost universal hashing: an efficient implementation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(988).pdf" style="text-decoration:none;">Regular and almost universal hashing: an efficient implementation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(988).pdf" style="text-decoration:none;">Introduction to Linux: A Hands on Guide</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(989).pdf" style="text-decoration:none;">Relative Suffix Trees</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(990).pdf" style="text-decoration:none;">Remote Library Injection</a></li>
