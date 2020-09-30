@@ -1774,7 +1774,7 @@ Tales from the Software Community </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(911).pdf" style="text-decoration:none;">Persistence Programming Models for Non-Volatile Memory</a></li>                        
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(912).pdf" style="text-decoration:none;">Persistent Memory in Windows</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(913).pdf" style="text-decoration:none;">On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(913).pdf" style="text-decoration:none;">The Java Language Environment</a></li> 
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(914).pdf" style="text-decoration:none;">Pin: Building Customized Program Analysis Tools with Dynamic Instrumentation</a></li>
