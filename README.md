@@ -1690,7 +1690,7 @@ Origins of the Simplex Method </a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(866).pdf" style="text-decoration:none;">Overplotting: Unified solutions under Abstract Rendering</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(867).pdf" style="text-decoration:none;">DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(867).pdf" style="text-decoration:none;">Quantum Mechanics and Path Integrals</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(868).pdf" style="text-decoration:none;">Ownership and Reference Counting based Garbage Collection in the Actor World</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(869).pdf" style="text-decoration:none;">P: Safe Asynchronous Event-Driven Programming</a></li>                              
@@ -1703,8 +1703,8 @@ Origins of the Simplex Method </a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(873).pdf" style="text-decoration:none;">NumPy / SciPy / Pandas Cheat Sheet</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(874).pdf" style="text-decoration:none;">B-trees, Shadowing, and Clones</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(875).pdf" style="text-decoration:none;">Zero-Resource Neural Machine Translation with Multi-Agent Communication Game</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(876).pdf" style="text-decoration:none;">Tied Multitask Learning for Neural Speech Translation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(875).pdf" style="text-decoration:none;">Quantum Field Theory: A Modern Introduction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(876).pdf" style="text-decoration:none;">Black Holes, Hawking Radiation, and the Firewall</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(877).pdf" style="text-decoration:none;">Memory Interleaving</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Technical-oriented-Papers/blob/master/tech(878).pdf" style="text-decoration:none;">
 The Need for Asynchronous, Zero-Copy Network I/O</a></li>
